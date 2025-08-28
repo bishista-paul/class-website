@@ -1,4 +1,5 @@
 ---
+title: 'MAT 4111A: Putnam Preparation'
 layout: layouts/mat4111AF25.njk
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: 'MAT 3100W syllabus'
 layout: layouts/mat3100WF25.njk
 ---
 

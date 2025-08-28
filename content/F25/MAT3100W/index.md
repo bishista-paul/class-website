@@ -1,4 +1,5 @@
 ---
+title: 'MAT 3100W: Introduction to Mathematical Proof'
 layout: layouts/mat3100WF25.njk
 ---
 

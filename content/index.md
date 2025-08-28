@@ -11,7 +11,7 @@ const eleventyNavigation = {
 ----
 # Previous classes
 ### Spring 2025 Classes
-  - MAT 4180
+  - MAT 4180: Introduction to Abstract Algebra II
 
 ### Fall 2024 Classes
-  - MAT 4170
+  - MAT 4170: Introduction to Abstract Algebra I

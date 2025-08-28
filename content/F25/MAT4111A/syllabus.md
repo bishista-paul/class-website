@@ -1,4 +1,5 @@
 ---
+title: 'MAT 4111A syllabus'
 layout: layouts/mat4111AF25.njk
 ---
 
@@ -14,7 +15,7 @@ layout: layouts/mat4111AF25.njk
   <li>Monday, August 25th&ndash;Monday, December 1st</li>
   <li>3:00 PM&ndash;4:50 PM</li>
   <li>Building 9, Room 239</li>
-  <li><a href="https://discord.com/channels/1347041051906674788/">KME Discord server</a> (<a href="https://discord.gg/qfkDX5JDde">Invitation</a>)</li>
+  <li><a href="https://discord.com/channels/1347041051906674788/">KME Discord server</a> (<a href="https://discord.gg/ekmVcctG9e">Invitation</a>)</li>
 </ul>
 
 <h3>Instructor information</h3>
