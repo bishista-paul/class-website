@@ -40,7 +40,7 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy("./content/assets/favicon.svg")
 		.addPassthroughCopy({ "node_modules/@mathjax": "vendor/mathjax" })
 		.addPassthroughCopy({"content/assets/_global": "assets"})
-		.addPassthroughCopy("./css/index-2025-11-19_2.css")
+		.addPassthroughCopy("./css/index-2026-01-20.css")
 		.addPassthroughCopy({"node_modules/prismjs/themes/prism.min.css": "css/prism.css"})
 	;
 	eleventyConfig.addWatchTarget("css/**/*.css");

@@ -1,17 +1,18 @@
----js
-const eleventyNavigation = {
-	key: "Classes",
-	order: 20
-};
 ---
-# Fall 2025 Classes
-  - [MAT 3100W](/F25/MAT3100W/): Intro to Mathematical Proof
-  - [MAT 4111A](/F25/MAT4111A/): Putnam Preparation
+---
+# Spring 2026 Classes
+  - [MAT 4170](/S26/MAT4170/): Introduction to Abstract Algebra I
+  - [MAT 4200](/S26/MAT4200/): Differential Geometry
 
 ----
 # Previous classes
-### Spring 2025 Classes
+
+### Fall 2025
+  - [MAT 3100W](/F25/MAT3100W/): Intro to Mathematical Proof
+  - [MAT 4111A](/F25/MAT4111A/): Putnam Preparation
+
+### Spring 2025
   - MAT 4180: Introduction to Abstract Algebra II
 
-### Fall 2024 Classes
+### Fall 2024
   - MAT 4170: Introduction to Abstract Algebra I
